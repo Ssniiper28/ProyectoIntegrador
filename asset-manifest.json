@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ProyectoIntegrador/static/css/main.b358b18a.css",
+    "main.js": "/ProyectoIntegrador/static/js/main.27b218a7.js",
+    "static/media/imss-logo.png": "/ProyectoIntegrador/static/media/imss-logo.a581efa939ef7e14a2b7.png",
+    "static/media/modulo3.jpg": "/ProyectoIntegrador/static/media/modulo3.04f7848d91a44c23f9cf.jpg",
+    "static/media/modulo2.jpg": "/ProyectoIntegrador/static/media/modulo2.864634ba3c80bf71f53b.jpg",
+    "static/media/modulo4.jpg": "/ProyectoIntegrador/static/media/modulo4.32081786aaaa118b2be3.jpg",
+    "static/media/modulo1.jpg": "/ProyectoIntegrador/static/media/modulo1.62e1e361070dd587f260.jpg",
+    "static/media/solucion.png": "/ProyectoIntegrador/static/media/solucion.cea38c01f75b0ddef790.png",
+    "static/media/problematica.png": "/ProyectoIntegrador/static/media/problematica.bc4e4b6d6370f1718b74.png",
+    "static/media/antecedentes.png": "/ProyectoIntegrador/static/media/antecedentes.0f5b0322bbd638806bfd.png",
+    "index.html": "/ProyectoIntegrador/index.html",
+    "main.b358b18a.css.map": "/ProyectoIntegrador/static/css/main.b358b18a.css.map",
+    "main.27b218a7.js.map": "/ProyectoIntegrador/static/js/main.27b218a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b358b18a.css",
+    "static/js/main.27b218a7.js"
+  ]
+}
