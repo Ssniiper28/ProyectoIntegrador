@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ProyectoIntegrador/static/css/main.b358b18a.css",
+    "main.css": "/ProyectoIntegrador/static/css/main.d6100900.css",
     "main.js": "/ProyectoIntegrador/static/js/main.27b218a7.js",
     "static/media/imss-logo.png": "/ProyectoIntegrador/static/media/imss-logo.a581efa939ef7e14a2b7.png",
     "static/media/modulo3.jpg": "/ProyectoIntegrador/static/media/modulo3.04f7848d91a44c23f9cf.jpg",
@@ -11,11 +11,11 @@
     "static/media/problematica.png": "/ProyectoIntegrador/static/media/problematica.bc4e4b6d6370f1718b74.png",
     "static/media/antecedentes.png": "/ProyectoIntegrador/static/media/antecedentes.0f5b0322bbd638806bfd.png",
     "index.html": "/ProyectoIntegrador/index.html",
-    "main.b358b18a.css.map": "/ProyectoIntegrador/static/css/main.b358b18a.css.map",
+    "main.d6100900.css.map": "/ProyectoIntegrador/static/css/main.d6100900.css.map",
     "main.27b218a7.js.map": "/ProyectoIntegrador/static/js/main.27b218a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b358b18a.css",
+    "static/css/main.d6100900.css",
     "static/js/main.27b218a7.js"
   ]
 }
