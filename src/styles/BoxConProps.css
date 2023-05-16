@@ -1,0 +1,84 @@
+.contenedor-p{
+    width:80%;
+    height: 80vh;
+    background-color: #4b7a6c;
+    margin: 5% 5% 5% 9%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow:5px 5px 13px #072c1f;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.contenedor-p > p {
+    font-size: 3vw;
+    margin-bottom: 3rem;
+    color: white;
+}
+
+.contenedor-texto{
+    display: flex;
+    gap: 30px;
+    text-align: justify;
+    padding: 20px;
+    font-family: Lato, sans-serif;
+    line-height: 1.2;
+    color: white;
+}
+
+.estilo-contenido {
+    width: 60%;
+    font-size: 1.5vw;
+    flex: 5;
+}
+
+.contenedor-texto img {
+    object-fit: scale-down;
+    width: 20%;
+    flex: 1;
+}
+
+.problema {
+    background: red;
+}
+
+.solucion {
+    background-color: rgb(25, 83, 177);
+}
+
+@media (max-width: 800px) {
+    .contenedor-texto{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .estilo-contenido {
+        width: 100%;
+        font-size: 2vw;
+        flex: 5;
+    }
+
+    .contenedor-p > p {
+        font-size: 4vw;
+        margin-bottom: 1rem;
+    }
+}
+
+@media (max-width: 450px){
+    .estilo-contenido {
+        width: 100%;
+        font-size: 1.25rem;
+    }
+
+    .contenedor-p > p {
+        font-size: 1.5rem;
+        margin-bottom: 1rem;
+    }
+
+    .contenedor-p {
+        height: fit-content;
+        padding: 20px 0;
+    }
+}
